@@ -48,7 +48,7 @@ the package to run successfully.
 6. Execute `dbt run` – the Segment models will get built as part of your run!
 
 ## Database support
-This package has been tests on Redshift, Snowflake, and BigQuery.
+This package has been tested on Redshift, Snowflake, and BigQuery.
 
 ## Contributing
 
